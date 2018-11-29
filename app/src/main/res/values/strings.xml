@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlermTest</string>
+    <string name="time_setting">設定した時間にアラームを鳴らす</string>
+    <string name="set_alarm_text">上記の時間にアラームを鳴らす</string>
+</resources>
